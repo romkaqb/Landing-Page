@@ -1,4 +1,15 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+A clean and functional modern website for active lifestyle enthusiasts.
+
+Technologies that were used for this site {
+  html
+  css
+  git
+}
+
+link to the preview {
+  https://github.com/romkaqb/Landing-Page
+}
+
+Link to the mockup {
+  https://www.figma.com/design/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0-1&p=f
+}

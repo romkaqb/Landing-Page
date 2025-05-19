@@ -7,7 +7,7 @@ Technologies that were used for this site {
 }
 
 link to the preview {
-  https://github.com/romkaqb/Landing-Page
+  https://romkaqb.github.io/Landing-Page/
 }
 
 Link to the mockup {

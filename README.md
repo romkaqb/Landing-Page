@@ -1,32 +1,9 @@
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Live Demo</a>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
-
-
-
+<a id="readme-top"></a>
 <!-- ABOUT THE PROJECT -->
-## About The Project!
+# About The Project!
 
 ![Landing Page](chrome_6hswDYY0ys-1.png)
-# Bicycle Landing Page 🚴
+### Bicycle Landing Page 🚴
 
 A modern, responsive landing page for a bicycle store or brand. This project showcases a clean and attractive layout designed to promote bicycles, highlight features, and encourage users to explore or make a purchase.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
